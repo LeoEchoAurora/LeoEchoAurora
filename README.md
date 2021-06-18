@@ -1,4 +1,17 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm LeoEchoAurora.</h2>
+
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">A little more about me...
+
+
+- 🌎 Find me around the web: [Credere's Blog](https://blog.credere.top)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeoEchoAurora&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  ![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vue.js)
+
+💾 EOF
+
+
 
 <!--
 **LeoEchoAurora/LeoEchoAurora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
