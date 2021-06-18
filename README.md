@@ -8,7 +8,7 @@
 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeoEchoAurora&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  ![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vue.js)
+  ![](https://img.shields.io/badge/HTML-red?style=flat&logo=Html5)  ![](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)  ![](https://img.shields.io/badge/JavaScript-green?style=flat&logo=javascript)  ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vue.js)
 
   <p align="center">
   	<img src="https://github-readme-stats.vercel.app/api?username=LeoEchoAurora&show_icons=true&theme=dracula" alt="GitHub Status">
@@ -16,6 +16,8 @@
   </p>
 
 💾 EOF
+
+
 
 
 
