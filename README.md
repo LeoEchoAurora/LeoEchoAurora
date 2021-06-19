@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm LeoEchoAurora.</h2>
+<h2 align="center">👋 Hello! I'm Noca</h2>
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">A little more about me...
