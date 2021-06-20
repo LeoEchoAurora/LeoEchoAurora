@@ -13,8 +13,8 @@
   ![](https://img.shields.io/badge/HTML-red?style=flat&logo=Html5)  ![](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)  ![](https://img.shields.io/badge/JavaScript-green?style=flat&logo=javascript)  ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vue.js)
 
   <p align="center">
-  	<img src="https://github-readme-stats.vercel.app/api?username=NocaTop&show_icons=true&theme=dracula" alt="GitHub Status">
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NocaTop&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  	<img src="https://github-readme-stats.vercel.app/api?username=Nocae&show_icons=true&theme=dracula" alt="GitHub Status">
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nocae&layout=compact&theme=tokyonight" alt="Most Used Languages">
   </p>
 
 💾 EOF
