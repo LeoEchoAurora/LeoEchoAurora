@@ -4,7 +4,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">A little more about me...
 
 
-- 🌎 Find me around the web: [Credere's Blog](https://blog.credere.top)
+- 🌎 Find me around the web: [Noca](https://noca.top)
 - 🇨🇳 Domestic GIT address: [Noca](https://gitee.com/Noca)
 - ❤️ 🎵 🏃 📖 💻 👨‍🎓
 
